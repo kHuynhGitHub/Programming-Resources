@@ -11,7 +11,7 @@
 * [Odin Project](https://www.theodinproject.com/courses/ruby-programming)
 * [Practical Object-Oriented Design, An Agile Primer Using Ruby (POODR)](https://www.poodr.com/)
 * https://i-love-ruby.gitlab.io/#_getting_started
-* [Eloquent Ruby](http://eloquentruby.com/)
+* [Eloquent Ruby](https://www.amazon.com/gp/product/0321584104/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321584104&linkCode=as2&tag=eloqruby-20)
 * [The Pragmatic Programmers' Guide](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 * [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist-third-edition)
 
